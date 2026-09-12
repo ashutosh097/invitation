@@ -1,26 +1,26 @@
 const DATA = {
   getVenue: {
-    name: "The Grand Sapphire",
-    address: "Tech Boulevard, Plot 42, Greater Noida, Uttar Pradesh 201318",
-    maps: "https://www.google.com/maps/search/?api=1&query=Greater+Noida+Uttar+Pradesh"
+    name: "The Patliputra Chital",
+    address: "Suchitra Radha Complex, Rajeev Nagar Main Rd, near Atal Path, Rajeev Nagar, Digha Ghat, Patna, Bihar 800024",
+    maps: "https://maps.app.goo.gl/J2uQBFDAd1atqxRF8"
   },
   getCouple: {
-    groom: "Aarav Sharma",
-    bride: "Ananya Mehta",
-    families: "Sharma & Mehta Family"
+    groom: "Ashutosh",
+    bride: "Tanya",
+    families: "Ashutosh & Family"
   },
   getEvents: [
-    { name: "Engagement Ceremony", date: "2026-11-15", time: "18:00" },
-    { name: "Dinner & Celebration", date: "2026-11-15", time: "19:30" }
+    { name: "Wedding", date: "2026-11-20", time: "19:00" },
+    { name: "Dinner & Celebration", date: "2026-11-20", time: "20:00" }
   ],
   getRSVP: {
-    phone: "+91 98765 43210",
-    whatsapp: "https://wa.me/919876543210"
+    phone: "+91 8743888923",
+    whatsapp: "https://wa.me/8743888923"
   },
   getInvitation: {
-    title: "Aarav & Ananya | Engagement",
-    date: "15 November 2026",
-    venue: "The Grand Sapphire, Greater Noida",
+    title: "Ashutosh & Tanya | Wedding",
+    date: "20 November 2026",
+    venue: "The Patliputra Chital",
     note: "Your presence and blessings will make this special occasion even more memorable."
   }
 };
